@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>2006级兰州大学核物理专业</title>
+    <link>http://xiaomengwu.github.io/</link>
+    <description>Recent content on 2006级兰州大学核物理专业</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <atom:link href="http://xiaomengwu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>/services/about/about/</link>
+      <link>http://xiaomengwu.github.io/services/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/about/about/</guid>
+      <guid>http://xiaomengwu.github.io/services/about/about/</guid>
       <description>&lt;p&gt;少年青春已不复，百尺竿头进一步。&lt;br /&gt;
 万般忙碌身珍重，卅年壬戌再相聚。&lt;/p&gt;
 </description>
@@ -20,10 +21,10 @@
     
     <item>
       <title>2006级核物理专业入学照</title>
-      <link>/services/gotoschool/</link>
+      <link>http://xiaomengwu.github.io/services/gotoschool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/gotoschool/</guid>
+      <guid>http://xiaomengwu.github.io/services/gotoschool/</guid>
       <description>&lt;p&gt;大一合影（入学时为物理科学与技术学院应用物理学专业）&lt;br /&gt;
 第一排左起：李永明、张　建、姜文刚、袁树林、宋会英、娄凤君、曹　媛、王　璠、杨桂霞、万瑞芸、肖艳侠、雷　雯；&lt;br /&gt;
 第二排左起：徐景升、吴　耀、王园明、闫冠云、位金锋、畅忠毅、王小军、陆　星、冯濒啸、雷　伟、郑华庆；&lt;br /&gt;
@@ -39,10 +40,10 @@
     
     <item>
       <title>2006级核物理专业毕业照</title>
-      <link>/services/graduate/</link>
+      <link>http://xiaomengwu.github.io/services/graduate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/graduate/</guid>
+      <guid>http://xiaomengwu.github.io/services/graduate/</guid>
       <description>&lt;p&gt;大四合影（毕业时为核科学与技术学院应用物理学（原子核物理及核技术方向）专业）
 第一排左起：（老师）王永仁、牟运清、隋文波、刘映奇、刘　肃、李玉忠、陈熙萌、杨　毅、景泽明、王定峰、李汝平、陈　洁、钱湘萍；&lt;br /&gt;
 第二排左起：袁树林、张　建、姜文刚、肖艳侠、杨桂霞、宋会英、万瑞芸、娄凤君、王　璠、曹　媛、冯濒啸、邓才波、邱　木、李科撰、吴　耀；&lt;br /&gt;
