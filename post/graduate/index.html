@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>graduate</title>
+
+    
+    <link href="http://xiaomengwu.github.iocss/bootstrap-theme.css" rel="stylesheet">
+
+    <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    
+    <link href="http://xiaomengwu.github.iocss/HPstyles.css" rel="stylesheet">
+    <link href="http://xiaomengwu.github.iocss/hugofont.css" rel="stylesheet">
+    <link href="http://xiaomengwu.github.iocss/owl.carousel.css" rel="stylesheet">
+    <link href="http://xiaomengwu.github.iocss/owl.theme.default.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+
+  <body>
+
+<p>大四合影（毕业时为核科学与技术学院应用物理学（原子核物理及核技术方向）专业）</p>
+
+<p>第一排左起：（老师）王永仁、牟运清、隋文波、刘映奇、刘　肃、李玉忠、陈熙萌、杨　毅、景泽明、王定峰、李汝平、陈　洁、钱湘萍；<br />
+第二排左起：袁树林、张　建、姜文刚、肖艳侠、杨桂霞、宋会英、万瑞芸、娄凤君、王　璠、曹　媛、冯濒啸、邓才波、邱　木、李科撰、吴　耀；<br />
+第三排左起：李永明、梁茂雕、郑华庆、畅忠毅、胡志涛、刘　楠、张艳斌、袁　伟、向、阳、马　鹏、脱立强、位金锋、张　磊、徐景升、王小军；<br />
+第四排左起：陆　星、李　飞、俞海东、王贤靖、孟令杰、刘　鑫、李海亮、闫冠云、马立勇、马军军、禇忠强、王兴安、李亚浡、王园明；<br />
+没在照片上的同学有：池　健、杜小楠、郭李磊、雷　伟、雷　雯、武承强、许　斌、赵　飞、周春林。</p>
+
+<p>照片拍摄于2006年5月</p>
+
+
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 text-center">
+        <ul class="list-inline">
+            <li><a href="http://twitter.com/spf13" class="icon-twitter icon-2x"></a></li>
+            <li><a href="http://github.com/spf13/hugo" class="icon-octocat icon-2x"></a></li>
+        </ul>
+        <hr>
+        <p>Copyright &copy; Steve Francia 2013&ndash;2014</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script src="http://xiaomengwu.github.iojs/jquery-2.1.1.min.js"></script>
+<script src="http://xiaomengwu.github.iojs/owl.carousel.min.js"></script>
+
+<script>
+$(function() {
+$('a[href*=#]:not([href=#])').click(function() {
+  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+      || location.hostname == this.hostname) {
+
+    var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+    if (target.length) {
+      $('html,body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+      return false;
+    }
+  }
+});
+});
+$('.owl-carousel').owlCarousel({
+loop:true,
+margin:10,
+nav:true,
+autoplay:true,
+autoplayHoverPause:true,
+autoplayTimeout:3000,
+responsive:{
+    0:{
+        items:1
+    },
+    1000:{
+        items:3
+    },
+}
+})
+</script>
+
+
+</body>
+
+</html>
+
