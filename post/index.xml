@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on my new web site</title>
+    <link>http://xiaomengwu.github.io/post/</link>
+    <description>Recent content in Posts on my new web site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 19 Jun 2016 17:52:52 +0800</lastBuildDate>
+    <atom:link href="http://xiaomengwu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>poem</title>
+      <link>http://xiaomengwu.github.io/post/poem/</link>
+      <pubDate>Sun, 19 Jun 2016 17:52:52 +0800</pubDate>
+      
+      <guid>http://xiaomengwu.github.io/post/poem/</guid>
+      <description>&lt;p&gt;少年青春已不复，百尺竿头进一步。&lt;br /&gt;
+万般忙碌身珍重，卅年壬戌再相聚。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>graduate</title>
+      <link>http://xiaomengwu.github.io/post/graduate/</link>
+      <pubDate>Sun, 19 Jun 2016 17:42:27 +0800</pubDate>
+      
+      <guid>http://xiaomengwu.github.io/post/graduate/</guid>
+      <description>&lt;p&gt;大四合影（毕业时为核科学与技术学院应用物理学（原子核物理及核技术方向）专业）&lt;/p&gt;
+
+&lt;p&gt;第一排左起：（老师）王永仁、牟运清、隋文波、刘映奇、刘　肃、李玉忠、陈熙萌、杨　毅、景泽明、王定峰、李汝平、陈　洁、钱湘萍；&lt;br /&gt;
+第二排左起：袁树林、张　建、姜文刚、肖艳侠、杨桂霞、宋会英、万瑞芸、娄凤君、王　璠、曹　媛、冯濒啸、邓才波、邱　木、李科撰、吴　耀；&lt;br /&gt;
+第三排左起：李永明、梁茂雕、郑华庆、畅忠毅、胡志涛、刘　楠、张艳斌、袁　伟、向、阳、马　鹏、脱立强、位金锋、张　磊、徐景升、王小军；&lt;br /&gt;
+第四排左起：陆　星、李　飞、俞海东、王贤靖、孟令杰、刘　鑫、李海亮、闫冠云、马立勇、马军军、禇忠强、王兴安、李亚浡、王园明；&lt;br /&gt;
+没在照片上的同学有：池　健、杜小楠、郭李磊、雷　伟、雷　雯、武承强、许　斌、赵　飞、周春林。&lt;/p&gt;
+
+&lt;p&gt;照片拍摄于2006年5月&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>兰州大学2006届应用物理专业</title>
+      <link>http://xiaomengwu.github.io/post/welcome/</link>
+      <pubDate>Sun, 19 Jun 2016 17:32:43 +0800</pubDate>
+      
+      <guid>http://xiaomengwu.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;2006届核科学与技术学院应用物理学（原子核物理及核技术方向）全家福名单&lt;/p&gt;
+
+&lt;p&gt;大一合影（入学时为物理科学与技术学院应用物理学专业）&lt;/p&gt;
+
+&lt;p&gt;第一排左起：李永明、张　建、姜文刚、袁树林、宋会英、娄凤君、曹　媛、王　璠、杨桂霞、万瑞芸、肖艳侠、雷　雯；&lt;br /&gt;
+第二排左起：徐景升、吴　耀、王园明、闫冠云、位金锋、畅忠毅、王小军、陆　星、冯濒啸、雷　伟、郑华庆；&lt;br /&gt;
+第三排左起：邱　木、梁茂雕、李科撰、马立勇、马军军、刘　楠、俞海东、王贤靖、马　鹏、张　磊、杜小楠、许　斌；&lt;br /&gt;
+第四排左起：邓才波、脱立强、向　阳、张艳斌、禇忠强、李　飞、胡志涛、王兴安、李亚浡、刘　鑫、池　健；&lt;br /&gt;
+第五排左起：李海亮、郭李磊、孟令杰、赵　飞。&lt;/p&gt;
+
+&lt;p&gt;没在照片上的同学有：武承强、袁　伟、周春林。&lt;/p&gt;
+
+&lt;p&gt;照片拍摄于2002年12月末课后&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
